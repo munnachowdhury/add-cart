@@ -1,0 +1,81 @@
+[{
+    "id": 1,
+    "course_name": "HTML",
+    "instructor_name": "Anisul Islam",
+    "price": "188"
+  }, {
+    "id": 2,
+    "course_name": "CSS",
+    "instructor_name": "Anisul Islam",
+    "price": "137"
+  }, {
+    "id": 3,
+    "course_name": "javaScript",
+    "instructor_name": "HM Nayeem",
+    "price": "140"
+  }, {
+    "id": 4,
+    "course_name": "React",
+    "instructor_name": "Jhankar Mahbub",
+    "price": "103"
+  }, {
+    "id": 5,
+    "course_name": "Python",
+    "instructor_name": "Shahriar Subeen",
+    "price": "166"
+  }, {
+    "id": 6,
+    "course_name": "Django",
+    "instructor_name": "Jhankar Mahbub",
+    "price": "167"
+  }, {
+    "id": 7,
+    "course_name": "MySQL",
+    "instructor_name": "Anisul Islam",
+    "price": "180"
+  }, {
+    "id": 8,
+    "course_name": "PHP",
+    "instructor_name": "Highman",
+    "price": "135"
+  }, {
+    "id": 9,
+    "course_name": "Laravel",
+    "instructor_name": "Rabbil Hasan",
+    "price": "147"
+  }, {
+    "id": 10,
+    "course_name": ".NET",
+    "instructor_name": "Parsisson",
+    "price": "159"
+  }, {
+    "id": 11,
+    "course_name": "C#",
+    "instructor_name": "Maliffe",
+    "price": "129"
+  }, {
+    "id": 12,
+    "course_name": "Ruby",
+    "instructor_name": "Jeacock",
+    "price": "146"
+  }, {
+    "id": 13,
+    "course_name": "Kotlin",
+    "instructor_name": "Wallbank",
+    "price": "179"
+  }, {
+    "id": 14,
+    "course_name": "UX/UY",
+    "instructor_name": "Rabbil Hasan",
+    "price": "141"
+  }, {
+    "id": 15,
+    "course_name": "Bootstrap",
+    "instructor_name": "Anisul Islam",
+    "price": "121"
+  }, {
+    "id": 16,
+    "course_name": "Jquary",
+    "instructor_name": "Hassett",
+    "price": "130"
+  }]

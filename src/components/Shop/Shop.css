@@ -1,0 +1,12 @@
+.shop-container{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 50px;
+    text-align: center;
+}
+.cart{
+    color: rgb(54, 52, 52);
+    width: 50%;
+    height: 100%;
+    text-align: center;
+}
